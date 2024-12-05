@@ -186,7 +186,7 @@ do{
                 break;
 		   case 9:
 		   	 printf("Xoa phan tu trung lap trong mang ");
-		   
+		       break;
 		   	  
 		   case 10:
 		   		{
